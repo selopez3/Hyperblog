@@ -1,1 +1,3 @@
-Esto es el curso de git and github
+Esto es el curso de git and github.
+
+Realizamos el primer commit en esta clase.
